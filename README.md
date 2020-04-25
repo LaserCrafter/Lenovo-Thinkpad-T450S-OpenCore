@@ -10,7 +10,7 @@ CPU: i5-5300U
 
 Integrated Graphics: HD Graphics 5500
 
-Sound Card: ALC292
+Sound Card: ALC292/ALC3232
 
 Wireless Card: BCM94360CS2 With Adapter 
 
@@ -26,7 +26,7 @@ Wireless Card: BCM94360CS2 With Adapter
 - `UEFI/Legacy Boot`: **UEFI Only**;
 - `CSM Support`: **NO**.
 - `Wake On LAN`:**Disabled**
-
+- 
 ## What works
 
 - Sleep / Wake
