@@ -33,7 +33,7 @@ Wireless Card: BCM94360CS2 With Adapter
 - Wifi and Bluetooth (BCM94360CS2)
 - Handoff, Continuity, AirDrop
 - iMessage, FaceTime, App Store, iTunes Store (Change Config.plist -> PlatformInfo -> Generic -> MLB and SystemSerialNumber)
-- Ethernet (Disabling Wake on Lan in both the BIOS and the OS can help with sleep problems) (Also Patches can help)
+- Ethernet (Disabling Wake on Lan in both the BIOS and the OS can help with sleep problems) (Also SSDT Patches can help)
 - Onboard audio (Use alc_fix to fix unworking jack after replug) (Disabling CSM along with alc_fix can help as well)
 - USB 2.0 / USB 3.0 (WIP for a more permanent solution)
 - Battery(somewhat accurate readout, but i'm still working to make it more accurate)
@@ -46,3 +46,4 @@ Wireless Card: BCM94360CS2 With Adapter
 - VGA
 - SD Card Reader (more permanent solution needed :P)
 - Sidecar (I don't have an iPad to test)
+- MiniDP(I don't have a dongle lol)
