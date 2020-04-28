@@ -47,3 +47,4 @@ Wireless Card: BCM94360CS2 With Adapter
 - SD Card Reader (more permanent solution needed :P)
 - Sidecar (I don't have an iPad to test)
 - MiniDP(I don't have a dongle lol)
+- Docking station(I don't have a dock)
